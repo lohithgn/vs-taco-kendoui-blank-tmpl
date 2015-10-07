@@ -16,6 +16,6 @@ Before running the app, execute the following commands
 
 And your Hybrid Mobile App with Kendo UI Mobile Framework will be ready.
 
-This template as the name goes, will be blank. It just puts the Kendo UI Mobile framework related files. It creates a Kendo UI Page which will be blank. You can take it over from here. 
+This template, as the name goes will be blank. It just puts the Kendo UI Mobile framework related files. It creates a Kendo UI Page which will be blank. You can take it over from here. 
 
 For Kendo UI Mobile Framework demos, check out online demos here: http://demos.telerik.com/kendo-ui/m
