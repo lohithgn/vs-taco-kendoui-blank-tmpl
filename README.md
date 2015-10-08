@@ -20,4 +20,4 @@ This template, as the name goes will be blank. It just puts the Kendo UI Mobile 
 
 ![Kendo UI Blank Template](http://content.screencast.com/users/Kashyapa/folders/TACO-CLI-ScreenShots/media/d68dbc1c-b55b-419b-b54f-bd4e71649cc5/TACOKendoUIBlank.png)
 
-For Kendo UI Mobile Framework demos, check out online demos here: http://demos.telerik.com/kendo-ui/m
+Kendo UI Mobile Framework demos can be found online here: http://demos.telerik.com/kendo-ui/m
