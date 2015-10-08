@@ -18,4 +18,6 @@ And your Hybrid Mobile App with Kendo UI Mobile Framework will be ready.
 
 This template, as the name goes will be blank. It just puts the Kendo UI Mobile framework related files. It creates a Kendo UI Page which will be blank. You can take it over from here. 
 
+![Kendo UI Blank Template](http://content.screencast.com/users/Kashyapa/folders/TACO-CLI-ScreenShots/media/d68dbc1c-b55b-419b-b54f-bd4e71649cc5/TACOKendoUIBlank.png)
+
 For Kendo UI Mobile Framework demos, check out online demos here: http://demos.telerik.com/kendo-ui/m
